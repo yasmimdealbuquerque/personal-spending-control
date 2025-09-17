@@ -1,0 +1,16 @@
+# Ignore arquivos de sistema
+.DS_Store
+Thumbs.db
+
+# Ignore pastas de build
+/bin
+/obj
+
+# Ignore arquivos de configuração local
+*.env
+*.log
+*.vs
+.vscode/
+
+# Ignore guia de comandos
+git-comandos.txt
